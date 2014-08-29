@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00007' order_by='00007' level='3'>Chapter 7 BOATS, DOCKS AND WATERWAYS</unit>
+<unit label='article' identifier='00005' order_by='00005' level='4'>ARTICLE III. DADE COUNTY VESSEL MOORING CODE</unit>
+</structure>
+<section_number>7-45</section_number>
+<catch_line>Offending vessels declared nuisances.</catch_line>
+<order_by>0000001459</order_by>
+<text><section>Vessels in violation of Sections through of this article are hereby declared to endanger public health, safety and welfare and to be public nuisances.</section></text><history>(Ord. No. 65-52, § 8, 7-27-65)</history></law>

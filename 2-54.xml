@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00002' order_by='00002' level='3'>Chapter 2 ADMINISTRATION</unit>
+<unit label='article' identifier='00010' order_by='00010' level='4'>ARTICLE IV. PERSONNEL</unit>
+</structure>
+<section_number>2-54</section_number>
+<catch_line>Applicability of provisions.</catch_line>
+<order_by>0000000225</order_by>
+<text><section>This division shall apply only to that part of the County service defined herein as the classified service.</section></text><history>(Ch. 30255, § 20, Laws 1955)</history></law>

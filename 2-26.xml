@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00002' order_by='00002' level='3'>Chapter 2 ADMINISTRATION</unit>
+<unit label='article' identifier='00009' order_by='00009' level='4'>ARTICLE IV. PERSONNEL</unit>
+</structure>
+<section_number>2-26</section_number>
+<catch_line>Established.</catch_line>
+<order_by>0000000201</order_by>
+<text><section>A Personnel Department is hereby established, which shall be responsible for the administration of the County personnel program and the rules governing such program.</section></text><history>(Ord. No. 57-9, § 19.01, 9-3-57)</history></law>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00064' order_by='00064' level='3'>Chapter 32 WATER AND SEWER REGULATIONS</unit>
+<unit label='article' identifier='00006' order_by='00006' level='4'>ARTICLE IV. DUTIES OF PUBLIC UTILITIES</unit>
+</structure>
+<section_number>32-70</section_number>
+<catch_line>Base facility charge consumption.</catch_line>
+<order_by>0000004134</order_by>
+<text><section>The base facility charge per billing unit shall be determined by dividing the annual base facility costs for all retail customers by the number of billing units on a utility's system. The number of billing units on a system of a utility using ten thousand (10,000) gallons as an ERC shall be computed as follows:<section prefix='(1)'>Multiply by five thousand (5,000) the number of customers with a maximum monthly usage of five thousand (5,000) gallons or less;</section><section prefix='(2)'>Add to the number determined in (1) the total maximum months usage of all customers with a maximum usage in excess of five thousand (5,000) gallons;</section><section prefix='(3)'>Divide the total of (1) and (2) by ten thousand (10,000) gallons to determine the monthly billing units;</section><section prefix='(4)'>Multiple the total monthly billing units by twelve (12) months to obtain the total billing units on that utility's system:</section></section><section> <section prefix='(5)'>A customer's base facility charge equals the number of billing units assigned to that customer times the base facility charge per billing unit determined in accordance with this section. This amount is multiplied by three (3) for quarterly customers.</section></section></text><history>(Ord. No. 84-9, § 3, 2-7-84)</history></law>

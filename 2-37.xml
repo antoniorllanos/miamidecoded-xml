@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00002' order_by='00002' level='3'>Chapter 2 ADMINISTRATION</unit>
+<unit label='article' identifier='00009' order_by='00009' level='4'>ARTICLE IV. PERSONNEL</unit>
+</structure>
+<section_number>2-37</section_number>
+<catch_line>Personnel departments in County hospitals.</catch_line>
+<order_by>0000000206</order_by>
+<text><section>There may be established at any County hospital unit, a Personnel Department which shall work with and through the Director of the Personnel Department of the County.</section></text><history>(Ch. 30255, § 3, Laws 1955; Ord. No. 57-16, § 1, 10-7-57)</history></law>
