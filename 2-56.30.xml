@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <law>
 <structure>
-<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
-<unit label='chapter' identifier='00002' order_by='00002' level='3'>Chapter 2 ADMINISTRATION</unit>
-<unit label='article' identifier='00016' order_by='00016' level='4'>ARTICLE IV. PERSONNEL</unit>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00002' order_by='00002' level='2'>Chapter 2 ADMINISTRATION</unit>
+<unit label='article' identifier='00008' order_by='00008' level='3'>ARTICLE IV. PERSONNEL</unit>
+<unit label='division' identifier='00008' order_by='00008' level='4'>DIVISION 8. PAYMENT OF ACCUMULATED SICK AND ANNUAL LEAVE</unit>
 </structure>
 <section_number>2-56.30</section_number>
 <catch_line>Generally.</catch_line>
 <order_by>0000000266</order_by>
-<text><section>Notwithstanding any other provision of law, any County or Public Health Trust officer or employee who separates from County or Public Health Trust service and would otherwise be entitled to payment for accumulated sick or annual leave and either:<section prefix='(a)'>Has been found by a court of competent jurisdiction to have committed; or</section><section prefix='(b)'>Is under investigation by any governmental entity, whether county, state or federal, for allegedly having committed while in county service an offense, whether criminal or civil, involving a breach of the public trust, shall not receive payment of such accumulated leave except as provided herein.</section></section></text><history>(Ord. No. 98-34, § 1, 2-19-98; Ord. No. 05-183, § 1, 10-18-05)</history></law>
+<text><section>Sec. 2-56.30. Generally.<section>Notwithstanding any other provision of law, any County or Public Health Trust officer or employee who separates from County or Public Health Trust service and would otherwise be entitled to payment for accumulated sick or annual leave and either:<section prefix='(a)'>Has been found by a court of competent jurisdiction to have committed; or</section><section prefix='(b)'>Is under investigation by any governmental entity, whether county, state or federal, for allegedly having committed while in county service an offense, whether criminal or civil, involving a breach of the public trust, shall not receive payment of such accumulated leave except as provided herein.</section></section></section></text><history>(Ord. No. 98-34, § 1, 2-19-98; Ord. No. 05-183, § 1, 10-18-05)</history></law>

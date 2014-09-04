@@ -3,7 +3,7 @@
 <structure>
 <unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
 <unit label='chapter' identifier='00007' order_by='00007' level='2'>Chapter 7 BOATS, DOCKS AND WATERWAYS</unit>
-<unit label='article' identifier='00006' order_by='00006' level='3'>ARTICLE IV. BARGES</unit>
+<unit label='article' identifier='00004' order_by='00004' level='3'>ARTICLE IV. BARGES</unit>
 </structure>
 <section_number>7-55</section_number>
 <catch_line>Definitions.</catch_line>

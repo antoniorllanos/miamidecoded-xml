@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <law>
 <structure>
-<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
-<unit label='chapter' identifier='00002' order_by='00002' level='3'>Chapter 2 ADMINISTRATION</unit>
-<unit label='article' identifier='00014' order_by='00014' level='4'>ARTICLE IV. PERSONNEL</unit>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00002' order_by='00002' level='2'>Chapter 2 ADMINISTRATION</unit>
+<unit label='article' identifier='00008' order_by='00008' level='3'>ARTICLE IV. PERSONNEL</unit>
+<unit label='division' identifier='00006' order_by='00006' level='4'>DIVISION 6. PROTECTION OF EMPLOYEES DISCLOSING SPECIFIED INFORMATION</unit>
 </structure>
 <section_number>2-56.28.12</section_number>
 <catch_line>Definitions.</catch_line>
 <order_by>0000000254</order_by>
-<text><section>As used in this division:<section prefix='(1)'>County shall include all Miami-Dade County departments, and all political subdivisions and special districts under the County Commission's legislative authority.</section><section prefix='(2)'>Employee shall mean a person who performs services for, and under the control and direction of, the County for wages or other remuneration.</section><section prefix='(3)'>Independent contractor shall mean a person, other than a federal, state or local government entity, engaged in any business and who enters into a contract with the County.</section><section prefix='(4)'>Adverse personnel action shall mean the discharge, suspension, transfer or demotion of any employee or the withholding of bonuses, the reduction in salary or benefits, or any other adverse action taken against an employee within the terms and conditions of employment by the County.</section><section prefix='(5)'>All other words or terms used in this ordinance shall have the same meaning as such words and terms have under the State Whistle-blower's Act.</section></section></text><history>(Ord. No. 94-107, § 1, 6-9-94)</history></law>
+<text><section>Sec. 2-56.28.12. Definitions.<section>As used in this division:<section prefix='(1)'>County shall include all Miami-Dade County departments, and all political subdivisions and special districts under the County Commission's legislative authority.</section><section prefix='(2)'>Employee shall mean a person who performs services for, and under the control and direction of, the County for wages or other remuneration.</section><section prefix='(3)'>Independent contractor shall mean a person, other than a federal, state or local government entity, engaged in any business and who enters into a contract with the County.</section><section prefix='(4)'>Adverse personnel action shall mean the discharge, suspension, transfer or demotion of any employee or the withholding of bonuses, the reduction in salary or benefits, or any other adverse action taken against an employee within the terms and conditions of employment by the County.</section><section prefix='(5)'>All other words or terms used in this ordinance shall have the same meaning as such words and terms have under the State Whistle-blower's Act.</section></section></section></text><history>(Ord. No. 94-107, § 1, 6-9-94)</history></law>

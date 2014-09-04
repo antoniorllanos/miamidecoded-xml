@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <law>
 <structure>
-<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
-<unit label='chapter' identifier='00069' order_by='00069' level='3'>Chapter 33B AREAS OF CRITICAL ENVIRONMENTAL CONCERN</unit>
-<unit label='article' identifier='00005' order_by='00005' level='4'>ARTICLE II. EAST EVERGLADES</unit>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00069' order_by='00069' level='2'>Chapter 33B AREAS OF CRITICAL ENVIRONMENTAL CONCERN</unit>
+<unit label='article' identifier='00002' order_by='00002' level='3'>ARTICLE II. EAST EVERGLADES</unit>
+<unit label='division' identifier='00043' order_by='00043' level='4'>DIVISION 3. SEVERABLE USE RIGHTS</unit>
 </structure>
 <section_number>33B-46</section_number>
 <catch_line>Administrative appeal.</catch_line>
 <order_by>0000005039</order_by>
-<text><section>In the event that an owner or other aggrieved party alleges an error in any order, requirement, decision or determination made by an administrative official in the interpretation of any portion of these provisions, an appeal may be filed pursuant to the provisions of(c) of the Code. (Ord. No. 81-122, § 6, 10-27-81)</section></text></law>
+<text><section>Sec. 33B-46. Administrative appeal.<section>In the event that an owner or other aggrieved party alleges an error in any order, requirement, decision or determination made by an administrative official in the interpretation of any portion of these provisions, an appeal may be filed pursuant to the provisions of(c) of the Code. (Ord. No. 81-122, § 6, 10-27-81)</section></section></text></law>

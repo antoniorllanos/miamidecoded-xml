@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <law>
 <structure>
-<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
-<unit label='chapter' identifier='00002' order_by='00002' level='3'>Chapter 2 ADMINISTRATION</unit>
-<unit label='article' identifier='00010' order_by='00010' level='4'>ARTICLE IV. PERSONNEL</unit>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00002' order_by='00002' level='2'>Chapter 2 ADMINISTRATION</unit>
+<unit label='article' identifier='00008' order_by='00008' level='3'>ARTICLE IV. PERSONNEL</unit>
+<unit label='division' identifier='00002' order_by='00002' level='4'>DIVISION 2. CIVIL SERVICE FOR COUNTY EMPLOYEES</unit>
 </structure>
 <section_number>2-49</section_number>
 <catch_line>Services to political subdivisions.</catch_line>
 <order_by>0000000220</order_by>
-<text><section prefix='(a)'>Subject to the approval of the County Commission, the Manager may enter into agreements with any municipality or other political subdivision of the County to furnish services and facilities of the Department to such municipality or political subdivision in the administration of its personnel on merit principles. Any such agreement shall provide for the reimbursement to the County of the reasonable cost of the services and facilities furnished, as determined by the County Commission. Each municipality and political subdivision of the County is hereby authorized to enter into such an agreement.</section><section prefix='(b)'>The Director may cooperate with governmental agencies for other jurisdictions charged with personnel administration in conducting joint tests and establishing joint lists from which eligibles shall be certified for appointment in accordance with the provisions of this division.</section></text><history>(Ch. 30255, § 15, Laws 1955)</history></law>
+<text><section>Sec. 2-49. Services to political subdivisions.<section prefix='(a)'>Subject to the approval of the County Commission, the Manager may enter into agreements with any municipality or other political subdivision of the County to furnish services and facilities of the Department to such municipality or political subdivision in the administration of its personnel on merit principles. Any such agreement shall provide for the reimbursement to the County of the reasonable cost of the services and facilities furnished, as determined by the County Commission. Each municipality and political subdivision of the County is hereby authorized to enter into such an agreement.</section><section prefix='(b)'>The Director may cooperate with governmental agencies for other jurisdictions charged with personnel administration in conducting joint tests and establishing joint lists from which eligibles shall be certified for appointment in accordance with the provisions of this division.</section></section></text><history>(Ch. 30255, § 15, Laws 1955)</history></law>

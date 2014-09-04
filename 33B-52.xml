@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <law>
 <structure>
-<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
-<unit label='chapter' identifier='00069' order_by='00069' level='3'>Chapter 33B AREAS OF CRITICAL ENVIRONMENTAL CONCERN</unit>
-<unit label='article' identifier='00006' order_by='00006' level='4'>ARTICLE II. EAST EVERGLADES</unit>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00069' order_by='00069' level='2'>Chapter 33B AREAS OF CRITICAL ENVIRONMENTAL CONCERN</unit>
+<unit label='article' identifier='00002' order_by='00002' level='3'>ARTICLE II. EAST EVERGLADES</unit>
+<unit label='division' identifier='00044' order_by='00044' level='4'>DIVISION 4. WETLANDS DISCLOSURE</unit>
 </structure>
 <section_number>33B-52</section_number>
 <catch_line>Purpose.</catch_line>
 <order_by>0000005043</order_by>
-<text><section>In order to seek to ensure that the purchasers of land located in the East Everglades Area of Critical Environmental Concern are fully apprised of the character of the lands in the East Everglades, and in particular that such lands are subject to periodic flooding, it is necessary and appropriate that the seller of such lands disclose to all purchasers, or potential purchasers, the character of such lands prior to purchase or agreement to purchase. This division is adopted in order to seek to protect the potential purchasers of land from misrepresentations as to the suitability of land for residential use and is in furtherance of the goals and objectives of Article II, Divisions 1, 2 and 3. (Ord. No. 82-113, § 3, 12-21-82)</section></text></law>
+<text><section>Sec. 33B-52. Purpose.<section>In order to seek to ensure that the purchasers of land located in the East Everglades Area of Critical Environmental Concern are fully apprised of the character of the lands in the East Everglades, and in particular that such lands are subject to periodic flooding, it is necessary and appropriate that the seller of such lands disclose to all purchasers, or potential purchasers, the character of such lands prior to purchase or agreement to purchase. This division is adopted in order to seek to protect the potential purchasers of land from misrepresentations as to the suitability of land for residential use and is in furtherance of the goals and objectives of Article II, Divisions 1, 2 and 3. (Ord. No. 82-113, § 3, 12-21-82)</section></section></text></law>

@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <law>
 <structure>
-<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
-<unit label='chapter' identifier='00069' order_by='00069' level='3'>Chapter 33B AREAS OF CRITICAL ENVIRONMENTAL CONCERN</unit>
-<unit label='article' identifier='00003' order_by='00003' level='4'>ARTICLE II. EAST EVERGLADES</unit>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00069' order_by='00069' level='2'>Chapter 33B AREAS OF CRITICAL ENVIRONMENTAL CONCERN</unit>
+<unit label='article' identifier='00002' order_by='00002' level='3'>ARTICLE II. EAST EVERGLADES</unit>
+<unit label='division' identifier='00041' order_by='00041' level='4'>DIVISION 1. GENERALLY</unit>
 </structure>
 <section_number>33B-17—33B-20</section_number>
 <catch_line>Reserved.</catch_line>
 <order_by>0000005021</order_by>
-<text></text></law>
+<text><section>Secs. 33B-17—33B-20. Reserved.</section></text></law>

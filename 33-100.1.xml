@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <law>
 <structure>
-<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
-<unit label='chapter' identifier='00067' order_by='00067' level='3'>Chapter 33 ZONING</unit>
-<unit label='article' identifier='00009' order_by='00009' level='4'>ARTICLE VI. SIGNS</unit>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00067' order_by='00067' level='2'>Chapter 33 ZONING</unit>
+<unit label='article' identifier='00006' order_by='00006' level='3'>ARTICLE VI. SIGNS</unit>
+<unit label='division' identifier='00036' order_by='00036' level='4'>DIVISION 3. SIGN STANDARDS REQUIREMENTS AND CHARTS</unit>
 </structure>
 <section_number>33-100.1</section_number>
 <catch_line>Permanent point of sale signs for AU.</catch_line>
 <order_by>0000004337</order_by>
-<text><section>Type of signs permitted: Detached; fiat; awning, canopy, roller curtain, umbrella; projecting; portable, directional.</section></text><history>(Ord. No. 96-162, § 3, 11-12-96; Ord. No. 10-90, § 2, 12-7-10)</history></law>
+<text><section>Sec. 33-100.1. Permanent point of sale signs for AU.<section>Type of signs permitted: Detached; fiat; awning, canopy, roller curtain, umbrella; projecting; portable, directional.</section></section></text><history>(Ord. No. 96-162, § 3, 11-12-96; Ord. No. 10-90, § 2, 12-7-10)</history></law>

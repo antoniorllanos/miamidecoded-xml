@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <law>
 <structure>
-<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
-<unit label='chapter' identifier='00002' order_by='00002' level='3'>Chapter 2 ADMINISTRATION</unit>
-<unit label='article' identifier='00009' order_by='00009' level='4'>ARTICLE IV. PERSONNEL</unit>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00002' order_by='00002' level='2'>Chapter 2 ADMINISTRATION</unit>
+<unit label='article' identifier='00008' order_by='00008' level='3'>ARTICLE IV. PERSONNEL</unit>
+<unit label='division' identifier='00001' order_by='00001' level='4'>DIVISION 1. PERSONNEL DEPARTMENT</unit>
 </structure>
 <section_number>2-38</section_number>
 <catch_line>Financing.</catch_line>
 <order_by>0000000208</order_by>
-<text><section>The County Commission shall provide sufficient funds in its annual budget to carry out effectively the provisions of this article.</section></text><history>(Ch. 30255, § 3(c), Laws 1955)</history></law>
+<text><section>Sec. 2-38. Financing.<section>The County Commission shall provide sufficient funds in its annual budget to carry out effectively the provisions of this article.</section></section></text><history>(Ch. 30255, § 3(c), Laws 1955)</history></law>

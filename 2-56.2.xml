@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <law>
 <structure>
-<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
-<unit label='chapter' identifier='00002' order_by='00002' level='3'>Chapter 2 ADMINISTRATION</unit>
-<unit label='article' identifier='00011' order_by='00011' level='4'>ARTICLE IV. PERSONNEL</unit>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00002' order_by='00002' level='2'>Chapter 2 ADMINISTRATION</unit>
+<unit label='article' identifier='00008' order_by='00008' level='3'>ARTICLE IV. PERSONNEL</unit>
+<unit label='division' identifier='00003' order_by='00003' level='4'>DIVISION 3. SPECIAL OFF-DUTY POLICE AND FIRE SERVICES</unit>
 </structure>
 <section_number>2-56.2</section_number>
 <catch_line>Permit—Application.</catch_line>
 <order_by>0000000229</order_by>
-<text><section>Any person who engages in an activity or function within Miami-Dade County which may reasonably require special police services or special fire prevention or fire inspection services, in addition to those police services or fire prevention and fire inspection services provided generally to the public by law, may apply to the appropriate department for a permit providing such services.</section></text><history>(Ord. No. 65-56, § 2, 7-27-65; Ord. No. 75-4, § 1, 1-7-75)</history></law>
+<text><section>Sec. 2-56.2. Permit—Application.<section>Any person who engages in an activity or function within Miami-Dade County which may reasonably require special police services or special fire prevention or fire inspection services, in addition to those police services or fire prevention and fire inspection services provided generally to the public by law, may apply to the appropriate department for a permit providing such services.</section></section></text><history>(Ord. No. 65-56, § 2, 7-27-65; Ord. No. 75-4, § 1, 1-7-75)</history></law>

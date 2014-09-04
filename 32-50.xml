@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <law>
 <structure>
-<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
-<unit label='chapter' identifier='00064' order_by='00064' level='3'>Chapter 32 WATER AND SEWER REGULATIONS</unit>
-<unit label='article' identifier='00005' order_by='00005' level='4'>ARTICLE IV. DUTIES OF PUBLIC UTILITIES</unit>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00064' order_by='00064' level='2'>Chapter 32 WATER AND SEWER REGULATIONS</unit>
+<unit label='article' identifier='00004' order_by='00004' level='3'>ARTICLE IV. DUTIES OF PUBLIC UTILITIES</unit>
+<unit label='division' identifier='00032' order_by='00032' level='4'>DIVISION 1. IN GENERAL</unit>
 </structure>
 <section_number>32-50</section_number>
 <catch_line>Sufficient and efficient service, reasonable rates, required; giving undue preference or advantage prohibited.</catch_line>
 <order_by>0000004119</order_by>
-<text><section>Each public utility shall furnish to each person applying therefor, within the territory authorized to be served by said utility, reasonably sufficient, adequate, and efficient service upon such reasonable terms as may be required by the Board. All rates and charges made, demanded, or received by any public utility for any service rendered, or to be rendered by it, or for any product supplied, or to be supplied by it, and each rule and regulation of such public utility, shall be just and reasonable. No public utility shall make or give any undue or unreasonable preference or advantage to any person or territory, or subject the same to any undue or unreasonable prejudice or disadvantage in any respect.</section></text><history>(Ord. No. 60-20, § 17, 7-5-60)</history></law>
+<text><section>Sec. 32-50. Sufficient and efficient service, reasonable rates, required; giving undue preference or advantage prohibited.<section>Each public utility shall furnish to each person applying therefor, within the territory authorized to be served by said utility, reasonably sufficient, adequate, and efficient service upon such reasonable terms as may be required by the Board. All rates and charges made, demanded, or received by any public utility for any service rendered, or to be rendered by it, or for any product supplied, or to be supplied by it, and each rule and regulation of such public utility, shall be just and reasonable. No public utility shall make or give any undue or unreasonable preference or advantage to any person or territory, or subject the same to any undue or unreasonable prejudice or disadvantage in any respect.</section></section></text><history>(Ord. No. 60-20, § 17, 7-5-60)</history></law>

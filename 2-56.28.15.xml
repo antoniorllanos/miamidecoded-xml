@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <law>
 <structure>
-<unit label='part' identifier='PART 3' order_by='00004' level='2'>PART III CODE OF ORDINANCES</unit>
-<unit label='chapter' identifier='00002' order_by='00002' level='3'>Chapter 2 ADMINISTRATION</unit>
-<unit label='article' identifier='00014' order_by='00014' level='4'>ARTICLE IV. PERSONNEL</unit>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00002' order_by='00002' level='2'>Chapter 2 ADMINISTRATION</unit>
+<unit label='article' identifier='00008' order_by='00008' level='3'>ARTICLE IV. PERSONNEL</unit>
+<unit label='division' identifier='00006' order_by='00006' level='4'>DIVISION 6. PROTECTION OF EMPLOYEES DISCLOSING SPECIFIED INFORMATION</unit>
 </structure>
 <section_number>2-56.28.15</section_number>
 <catch_line>To whom information disclosed.</catch_line>
 <order_by>0000000257</order_by>
-<text><section prefix='(a)'>Except as set forth in Subsection (b) hereof, the information disclosed under this division must be disclosed to the Office of Inspector General, the County Mayor or such official or officials as the Mayor may designate to receive such information on his behalf.</section><section prefix='(b)'>Employees with information, as defined in Section 2-56.28.14, concerning the Miami-Dade Aviation Department shall disclose such information directly to the Miami-Dade County Commission on Ethics and Public Trust or the Office of Inspector General. Employees who disclose such information to the Miami-Dade County Commission on Ethics and Public Trust or the Office of Inspector General shall be entitled to the full protection of this ordinance and to the remedies and awards it provides.</section></text><history>(Ord. No. 94-107, § 1, 6-9-94; Ord. No. 03-68, § 1, 4-8-03; Ord. No. 10-75, § 1, 11-4-10)</history></law>
+<text><section>Sec. 2-56.28.15. To whom information disclosed.<section prefix='(a)'>Except as set forth in Subsection (b) hereof, the information disclosed under this division must be disclosed to the Office of Inspector General, the County Mayor or such official or officials as the Mayor may designate to receive such information on his behalf.</section><section prefix='(b)'>Employees with information, as defined in Section 2-56.28.14, concerning the Miami-Dade Aviation Department shall disclose such information directly to the Miami-Dade County Commission on Ethics and Public Trust or the Office of Inspector General. Employees who disclose such information to the Miami-Dade County Commission on Ethics and Public Trust or the Office of Inspector General shall be entitled to the full protection of this ordinance and to the remedies and awards it provides.</section></section></text><history>(Ord. No. 94-107, § 1, 6-9-94; Ord. No. 03-68, § 1, 4-8-03; Ord. No. 10-75, § 1, 11-4-10)</history></law>
