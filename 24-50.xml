@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00045' order_by='00045' level='2'>Chapter 24 ENVIRONMENTAL PROTECTION, BISCAYNE BAY AND ENVIRONS DESIGNATED AQUATIC PARK AND CONSERVATION AREA, THE BISCAYNE BAY ENVIRONMENTAL ENHANCEMENT TRUST FUND, AND THE ENVIRONMENTALLY ENDANGERED LANDS PROGRAM</unit>
+<unit label='article' identifier='00004' order_by='00004' level='3'>ARTICLE IV. NATURAL AND BIOLOGICAL ENVIRONMENTAL RESOURCES PERMITTING AND PROTECTION; REGULATION OF DRAINAGE SYSTEMS AND STORMWATER MANAGEMENT</unit>
+<unit label='division' identifier='00031' order_by='00031' level='4'>DIVISION 3. ENVIRONMENTALLY ENDANGERED LANDS PROGRAM</unit>
+</structure>
+<section_number>24-50</section_number>
+<catch_line>Title.</catch_line>
+<order_by>0000003400</order_by>
+<text><section>Sec. 24-50. Title.<section>This section shall be known as the Environmentally Endangered Lands Program.</section></section></text><history>(Ord. No. 04-214, §§ 1, 5, 12-2-04)</history></law>
