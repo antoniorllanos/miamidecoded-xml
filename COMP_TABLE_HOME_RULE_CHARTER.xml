@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART II ACTS OF STATE LEGISLATURE</unit>
+<unit label='chapter' identifier='00001' order_by='00001' level='2'>COMPARATIVE TABLE HOME RULE CHARTER</unit>
+</structure>
+<section_number>COM_TAB_HOM_RUL_CHA</section_number>
+<catch_line>COMPARATIVE TABLE_HOME RULE CHARTER</catch_line>
+<order_by>0000000003</order_by>
+<text><section></section><section></section></text></law>

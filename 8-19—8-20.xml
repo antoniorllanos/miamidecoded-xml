@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 4' order_by='00005' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00008' order_by='00008' level='2'>Chapter 8 BUILDING CODE</unit>
+<unit label='article' identifier='00001' order_by='00001' level='3'>ARTICLE I. ADMINISTRATION</unit>
+</structure>
+<section_number>8-19—8-20</section_number>
+<catch_line>Reserved.</catch_line>
+<order_by>0000001520</order_by>
+<text></text></law>
